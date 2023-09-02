@@ -1,2 +1,2 @@
 # Dice-Game
-The Dice-Game project is created using Javascript and DOM methods.
+https://arunava5764.github.io/Dice-Game/
